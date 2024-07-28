@@ -1,2 +1,2 @@
-print("Hello Guys! Let’s code and grow together. Dev1")
+print("Hello Guys! Let’s code and grow together.")
 
